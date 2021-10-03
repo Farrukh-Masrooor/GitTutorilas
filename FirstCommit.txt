@@ -2,3 +2,5 @@ this is first commit in git
 it is modified
 
 it is ,odified again
+and again
+direct commit
